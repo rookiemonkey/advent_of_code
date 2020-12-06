@@ -14,7 +14,7 @@ To save your vacation, you need to get all fifty stars by December 25th.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 ## What else I wanted to say?
-7 Months after I started learning how to code, here I am participating a yearly coding event and yes I am enjoying it. I answered the puzzles using javascript. To myself next year, I challenge you to use Ruby or Python :D
+7 Months after I started learning how to code, here I am participating a yearly coding event and yes I am enjoying it!. To myself next year, 2021, I challenge you to use Ruby or Python :D
 
 ### Author: <i>Kevin Roi R. Basina</i>
 <a href="https://github.com/rookiemonkey">
