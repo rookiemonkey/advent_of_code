@@ -1,5 +1,5 @@
-# ADVENT OF CODE 2020
-Advent of Code 2020 🎄 JavaScript Solutions by `@rookiemonkey`
+# ADVENT OF CODE
+Advent of Code 🎄 Solutions by `@rookiemonkey`
 
 ## What is Advent of Code?
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](https://twitter.com/ericwastl). Each year, starting on Dec 1st, an advent calendar of small programming puzzles are unlocked once a day at midnight (EST/UTC-5). Developers of all skill sets are encouraged to solve them in any programming language they choose!
@@ -14,7 +14,7 @@ To save your vacation, you need to get all fifty stars by December 25th.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 ## What else I wanted to say?
-7 Months after I started learning how to code, here I am participating a yearly coding event and yes I am enjoying it!. To myself next year, 2021, I challenge you to use Ruby or Python :D
+Dec 2020, 7 Months after I started learning how to code, here I am participating a yearly coding event and yes I am enjoying it!. To myself next year, 2021, I challenge you to use Ruby or Python :D.
 
 ### Author: <i>Kevin Roi R. Basina</i>
 <a href="https://github.com/rookiemonkey">
